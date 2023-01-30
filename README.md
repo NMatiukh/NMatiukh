@@ -1,5 +1,5 @@
 # 💫 About Me:
-<ul><br>      <li>🔭 I'm a Front-End Developer with a passion for Science and Web-technologies.</li><br>       <li>💬 Shoot me an <a href="mailto:nazariimatiukh@gmail.com">Email</a> or add me on LinkedIn <a href="https://www.linkedin.com/in/nazarii-matiukh-587280234/">LinkedIn</a> :)</li><br></ul>
+<ul><br>      <li>🔭 I'm a Front-End Developer with a passion for Science and Web-technologies.</li><br>       <li>💬 Shoot me an <a href="mailto:nazarii.matiukh@gmail.com">Email</a> or add me on LinkedIn <a href="https://www.linkedin.com/in/nazarii-matiukh-587280234/">LinkedIn</a> :)</li><br></ul>
 
 
 ## 🌐 Socials:
